@@ -4,6 +4,7 @@ date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 slug: "/es/hello-world"
 lang: es
+tags: ["animals", "Chicago", "zoos"]
 ---
 
 Este es mi primero post!
