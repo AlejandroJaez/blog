@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-date: "2015-05-01T22:12:03.284Z"
+date: "2015-05-01T22:12:12.284Z"
 description: "Sobre mí"
 slug: "/es/About"
 lang: es
